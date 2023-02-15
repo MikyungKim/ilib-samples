@@ -5,7 +5,6 @@ import DateFormat from '../components/DateFormat';
 import Localization from '../components/Localization';
 
 const pages = {
-    'Date Format': <DateFormat />,
     'Localization': <Localization />
 };
 
